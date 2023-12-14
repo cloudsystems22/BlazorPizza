@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\obj\\Debug\\net6.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\MauiBlazorPizza.styles.css",
+      "PackagePath": "staticwebassets\\MauiBlazorPizza.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.MauiBlazorPizza.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.MauiBlazorPizza.props",
+      "PackagePath": "build\\MauiBlazorPizza.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.MauiBlazorPizza.props",
+      "PackagePath": "buildMultiTargeting\\MauiBlazorPizza.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.MauiBlazorPizza.props",
+      "PackagePath": "buildTransitive\\MauiBlazorPizza.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

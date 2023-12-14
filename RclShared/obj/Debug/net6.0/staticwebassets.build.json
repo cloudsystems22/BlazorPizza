@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "OGM/csR5fRwnlQIKVSnh7CAww0OJLiLCiI1RBqfpugY=",
+  "Source": "RclShared",
+  "BasePath": "_content/RclShared",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RclShared\\wwwroot",
+      "Source": "RclShared",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\wwwroot\\",
+      "BasePath": "_content/RclShared",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RclShared.styles.css",
+      "SourceId": "RclShared",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RclShared",
+      "RelativePath": "RclShared.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RclShared.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RclShared.bundle.scp.css",
+      "SourceId": "RclShared",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RclShared",
+      "RelativePath": "RclShared.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RclShared.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\wwwroot\\background.png",
+      "SourceId": "RclShared",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\wwwroot\\",
+      "BasePath": "_content/RclShared",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "RclShared",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\wwwroot\\",
+      "BasePath": "_content/RclShared",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
