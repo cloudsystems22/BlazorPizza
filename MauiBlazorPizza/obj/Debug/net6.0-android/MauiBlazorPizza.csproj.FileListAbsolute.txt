@@ -1,3 +1,4 @@
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\RclShared.staticwebassets.runtime.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\MauiBlazorPizza.runtimeconfig.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\MauiBlazorPizza.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\MauiBlazorPizza.pdb
@@ -6,6 +7,8 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\com.companyname.mauiblazorpizza-Signed.aab
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\com.companyname.mauiblazorpizza-Signed.apk
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\com.companyname.mauiblazorpizza-Signed.apk.idsig
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\RclShared.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\RclShared.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\build.props
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\adb.props
@@ -115,6 +118,7 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\MauiBlazorPizza.AssemblyInfo.cs
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\MauiBlazorPizza.csproj.CoreCompileInputs.cache
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\XamlC.stamp
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\MauiBlazorPizza.csproj.CopyComplete
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\MauiBlazorPizza.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\MauiBlazorPizza.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\MauiBlazorPizza.genruntimeconfig.cache
@@ -192,6 +196,8 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\Mono.Android.Export.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\Mono.Android.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\netstandard.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\RclShared.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\RclShared.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\System.AppContext.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\System.Buffers.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\System.Collections.dll
@@ -1030,9 +1036,3 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\RclShared.staticwebassets.runtime.json
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\RclShared.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-android\RclShared.pdb
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\MauiBlazorPizza.csproj.CopyComplete
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\RclShared.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-android\android\assets\RclShared.pdb

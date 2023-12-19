@@ -38,6 +38,8 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclShared.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclShared.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
@@ -303,6 +305,7 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclShared.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
@@ -339,6 +342,7 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclShared.pdb.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
@@ -397,6 +401,7 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclShared.staticwebassets.runtime.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\BlazorPizza.staticwebassets.runtime.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\BlazorPizza.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\BlazorPizza.pdb
@@ -596,6 +601,8 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\icudt_CJK.dat
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\icudt_EFIGS.dat
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclShared.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclShared.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\BlazorPizza.csproj.AssemblyReference.cache
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\BlazorPizza.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\BlazorPizza.AssemblyInfoInputs.cache
@@ -798,6 +805,8 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\c3xriTor.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\mz+TInuM.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\Ptqx0CP3.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\k2+iPp8o.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\PZsSlyOQ.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\QQmPkhhp.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\aKDO2chz.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\AroIrkSm.gz
@@ -817,12 +826,3 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\refint\BlazorPizza.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\BlazorPizza.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\ref\BlazorPizza.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclShared.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclShared.pdb
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclShared.dll.gz
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclShared.pdb.gz
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclShared.staticwebassets.runtime.json
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclShared.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclShared.pdb
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\k2+iPp8o.gz
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\PZsSlyOQ.gz

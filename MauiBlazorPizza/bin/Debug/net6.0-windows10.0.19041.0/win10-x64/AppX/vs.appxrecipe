@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-14T00:51:52.902</Modified>
+      <Modified>2023-12-19T17:31:19.705</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-14T00:51:52.232</Modified>
+      <Modified>2023-12-19T17:10:52.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorPizza.runtimeconfig.json">
       <PackagePath>MauiBlazorPizza.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-14T00:51:51.491</Modified>
+      <Modified>2023-12-18T20:47:46.314</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorPizza.dll">
       <PackagePath>MauiBlazorPizza.dll</PackagePath>
-      <Modified>2023-12-14T00:51:49.708</Modified>
+      <Modified>2023-12-19T17:10:49.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiBlazorPizza.exe</PackagePath>
-      <Modified>2023-12-14T00:51:49.750</Modified>
+      <Modified>2023-12-19T17:10:49.156</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorPizza.deps.json">
       <PackagePath>MauiBlazorPizza.deps.json</PackagePath>
-      <Modified>2023-12-14T00:51:51.327</Modified>
+      <Modified>2023-12-18T20:47:46.311</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.22\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1135,11 +1135,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\bin\Debug\net6.0\RclShared.dll">
       <PackagePath>RclShared.dll</PackagePath>
-      <Modified>2023-12-14T00:51:33.746</Modified>
+      <Modified>2023-12-19T17:24:59.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\obj\Debug\net6.0\staticwebassets.development.json">
       <PackagePath>RclShared.staticwebassets.runtime.json</PackagePath>
-      <Modified>2023-12-14T00:51:33.774</Modified>
+      <Modified>2023-12-18T20:45:46.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\.nuget\packages\microsoft.maui.controls.ref.win\6.0.553\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1159,11 +1159,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiBlazorPizza.styles.css">
       <PackagePath>wwwroot\MauiBlazorPizza.styles.css</PackagePath>
-      <Modified>2023-12-14T00:51:38.787</Modified>
+      <Modified>2023-12-18T20:45:52.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiBlazorPizza.bundle.scp.css">
       <PackagePath>wwwroot\MauiBlazorPizza.bundle.scp.css</PackagePath>
-      <Modified>2023-12-14T00:45:09.980</Modified>
+      <Modified>2023-12-18T20:45:52.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
@@ -1217,13 +1217,73 @@
       <PackagePath>wwwroot\favicon.ico</PackagePath>
       <Modified>2023-12-14T00:44:36.906</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\backgroundpizzamobile.png">
+      <PackagePath>wwwroot\images\backgroundpizzamobile.png</PackagePath>
+      <Modified>2023-12-14T01:00:15.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\backgroundpizzaum.png">
+      <PackagePath>wwwroot\images\backgroundpizzaum.png</PackagePath>
+      <Modified>2023-12-13T21:35:33.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoaguardando.png">
+      <PackagePath>wwwroot\images\icoaguardando.png</PackagePath>
+      <Modified>2023-12-13T21:31:34.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icocancelado.png">
+      <PackagePath>wwwroot\images\icocancelado.png</PackagePath>
+      <Modified>2023-12-13T21:31:55.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icocatalog.png">
+      <PackagePath>wwwroot\images\icocatalog.png</PackagePath>
+      <Modified>2023-12-13T21:29:05.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icochecado.png">
+      <PackagePath>wwwroot\images\icochecado.png</PackagePath>
+      <Modified>2023-12-13T21:32:03.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icodelete.png">
+      <PackagePath>wwwroot\images\icodelete.png</PackagePath>
+      <Modified>2023-12-13T21:33:09.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoedit.png">
+      <PackagePath>wwwroot\images\icoedit.png</PackagePath>
+      <Modified>2023-12-13T21:33:17.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoementrega.png">
+      <PackagePath>wwwroot\images\icoementrega.png</PackagePath>
+      <Modified>2023-12-13T21:31:47.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoentrega.png">
+      <PackagePath>wwwroot\images\icoentrega.png</PackagePath>
+      <Modified>2023-12-13T21:29:16.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\iconovo.png">
+      <PackagePath>wwwroot\images\iconovo.png</PackagePath>
+      <Modified>2023-12-13T21:33:24.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoperfil.png">
+      <PackagePath>wwwroot\images\icoperfil.png</PackagePath>
+      <Modified>2023-12-13T21:30:19.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icosair.png">
+      <PackagePath>wwwroot\images\icosair.png</PackagePath>
+      <Modified>2023-12-13T21:30:11.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\location.png">
+      <PackagePath>wwwroot\images\location.png</PackagePath>
+      <Modified>2023-12-18T19:58:14.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\register.png">
+      <PackagePath>wwwroot\images\register.png</PackagePath>
+      <Modified>2023-12-18T20:10:20.689</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
       <Modified>2023-12-14T00:44:37.001</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\obj\Debug\net6.0\scopedcss\projectbundle\RclShared.bundle.scp.css">
       <PackagePath>wwwroot\_content\RclShared\RclShared.bundle.scp.css</PackagePath>
-      <Modified>2023-12-14T00:51:34.228</Modified>
+      <Modified>2023-12-19T17:31:18.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\wwwroot\background.png">
       <PackagePath>wwwroot\_content\RclShared\background.png</PackagePath>
@@ -1235,23 +1295,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-12-14T00:44:59.562</Modified>
+      <Modified>2023-12-18T20:46:03.342</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-12-14T00:44:59.616</Modified>
+      <Modified>2023-12-18T20:46:03.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-12-14T00:44:59.655</Modified>
+      <Modified>2023-12-18T20:46:03.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-12-14T00:44:59.718</Modified>
+      <Modified>2023-12-18T20:46:03.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.011</Modified>
+      <Modified>2023-12-18T20:46:03.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1259,211 +1319,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-12-14T00:45:00.299</Modified>
+      <Modified>2023-12-18T20:46:03.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-12-14T00:45:01.010</Modified>
+      <Modified>2023-12-18T20:46:04.139</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-12-14T00:45:01.039</Modified>
+      <Modified>2023-12-18T20:46:04.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-12-14T00:45:01.069</Modified>
+      <Modified>2023-12-18T20:46:04.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-12-14T00:45:01.113</Modified>
+      <Modified>2023-12-18T20:46:04.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-12-14T00:45:01.263</Modified>
+      <Modified>2023-12-18T20:46:04.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.476</Modified>
+      <Modified>2023-12-18T20:46:03.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.485</Modified>
+      <Modified>2023-12-18T20:46:03.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.519</Modified>
+      <Modified>2023-12-18T20:46:03.860</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.491</Modified>
+      <Modified>2023-12-18T20:46:03.844</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.499</Modified>
+      <Modified>2023-12-18T20:46:03.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.431</Modified>
+      <Modified>2023-12-18T20:46:03.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.438</Modified>
+      <Modified>2023-12-18T20:46:03.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.468</Modified>
+      <Modified>2023-12-18T20:46:03.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.445</Modified>
+      <Modified>2023-12-18T20:46:03.810</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.452</Modified>
+      <Modified>2023-12-18T20:46:03.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.320</Modified>
+      <Modified>2023-12-18T20:46:03.735</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.329</Modified>
+      <Modified>2023-12-18T20:46:03.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.336</Modified>
+      <Modified>2023-12-18T20:46:03.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.342</Modified>
+      <Modified>2023-12-18T20:46:03.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.352</Modified>
+      <Modified>2023-12-18T20:46:03.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.357</Modified>
+      <Modified>2023-12-18T20:46:03.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.371</Modified>
+      <Modified>2023-12-18T20:46:03.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.421</Modified>
+      <Modified>2023-12-18T20:46:03.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.377</Modified>
+      <Modified>2023-12-18T20:46:03.776</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.385</Modified>
+      <Modified>2023-12-18T20:46:03.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.661</Modified>
+      <Modified>2023-12-18T20:46:03.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.679</Modified>
+      <Modified>2023-12-18T20:46:03.953</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.699</Modified>
+      <Modified>2023-12-18T20:46:03.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.734</Modified>
+      <Modified>2023-12-18T20:46:03.981</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.783</Modified>
+      <Modified>2023-12-18T20:46:04.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.571</Modified>
+      <Modified>2023-12-18T20:46:03.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.584</Modified>
+      <Modified>2023-12-18T20:46:03.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.606</Modified>
+      <Modified>2023-12-18T20:46:03.920</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.617</Modified>
+      <Modified>2023-12-18T20:46:03.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.646</Modified>
+      <Modified>2023-12-18T20:46:03.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.530</Modified>
+      <Modified>2023-12-18T20:46:03.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.536</Modified>
+      <Modified>2023-12-18T20:46:03.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.544</Modified>
+      <Modified>2023-12-18T20:46:03.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.551</Modified>
+      <Modified>2023-12-18T20:46:03.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.563</Modified>
+      <Modified>2023-12-18T20:46:03.897</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.799</Modified>
+      <Modified>2023-12-18T20:46:04.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.837</Modified>
+      <Modified>2023-12-18T20:46:04.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.877</Modified>
+      <Modified>2023-12-18T20:46:04.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.915</Modified>
+      <Modified>2023-12-18T20:46:04.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.988</Modified>
+      <Modified>2023-12-18T20:46:04.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.418</Modified>
+      <Modified>2023-12-18T20:46:03.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.441</Modified>
+      <Modified>2023-12-18T20:46:03.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.469</Modified>
+      <Modified>2023-12-18T20:46:03.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.512</Modified>
+      <Modified>2023-12-18T20:46:03.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-12-14T00:45:00.644</Modified>
+      <Modified>2023-12-18T20:46:03.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>
-      <Modified>2023-12-14T00:44:36.898</Modified>
+      <Modified>2023-12-18T18:52:25.422</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

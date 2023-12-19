@@ -1,0 +1,18 @@
+﻿.container-location {
+    display: flex;
+    width: 150px;
+}
+
+img {
+    height: 25px;
+}
+
+p {
+    font-size: 10pt;
+}
+
+@media(max-width:641px){
+   p {
+       font-size: 8pt;
+   }
+}

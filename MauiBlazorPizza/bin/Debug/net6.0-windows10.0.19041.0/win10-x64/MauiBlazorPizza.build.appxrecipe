@@ -913,6 +913,51 @@
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\backgroundpizzamobile.png">
+      <PackagePath>wwwroot\images\backgroundpizzamobile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\backgroundpizzaum.png">
+      <PackagePath>wwwroot\images\backgroundpizzaum.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoaguardando.png">
+      <PackagePath>wwwroot\images\icoaguardando.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icocancelado.png">
+      <PackagePath>wwwroot\images\icocancelado.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icocatalog.png">
+      <PackagePath>wwwroot\images\icocatalog.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icochecado.png">
+      <PackagePath>wwwroot\images\icochecado.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icodelete.png">
+      <PackagePath>wwwroot\images\icodelete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoedit.png">
+      <PackagePath>wwwroot\images\icoedit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoementrega.png">
+      <PackagePath>wwwroot\images\icoementrega.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoentrega.png">
+      <PackagePath>wwwroot\images\icoentrega.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\iconovo.png">
+      <PackagePath>wwwroot\images\iconovo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icoperfil.png">
+      <PackagePath>wwwroot\images\icoperfil.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\icosair.png">
+      <PackagePath>wwwroot\images\icosair.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\location.png">
+      <PackagePath>wwwroot\images\location.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\register.png">
+      <PackagePath>wwwroot\images\register.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
     </AppxPackagedFile>

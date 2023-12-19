@@ -1,0 +1,31 @@
+﻿.btn-cardapio{
+    display:flex;
+    padding:5px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 10pt;
+}
+
+img {
+    margin:2px;
+    height: 25px;
+}
+
+p{
+    margin:2px;
+}
+
+@media (max-width: 641px) {
+    .btn-cardapio{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        position:absolute;
+        bottom: 3px;
+        left: 55px;
+        z-index: 100;
+    }
+}

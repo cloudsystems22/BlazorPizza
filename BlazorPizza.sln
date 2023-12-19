@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPizza", "BlazorPizza\BlazorPizza.csproj", "{76ECA9DB-804A-418A-9DAE-EC19E9E23C03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorPizza", "BlazorPizza\BlazorPizza.csproj", "{76ECA9DB-804A-418A-9DAE-EC19E9E23C03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorPizza", "MauiBlazorPizza\MauiBlazorPizza.csproj", "{B8FBA60A-85D1-4C3A-BD5A-085346809022}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiBlazorPizza", "MauiBlazorPizza\MauiBlazorPizza.csproj", "{B8FBA60A-85D1-4C3A-BD5A-085346809022}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RclShared", "RclShared\RclShared.csproj", "{ACA69D77-ADE3-4B58-AE5C-09450F13E61D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RclShared", "RclShared\RclShared.csproj", "{ACA69D77-ADE3-4B58-AE5C-09450F13E61D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

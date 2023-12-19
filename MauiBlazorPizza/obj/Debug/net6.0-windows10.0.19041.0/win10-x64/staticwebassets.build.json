@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Glems81RUjYFQxlDblCXGA3rpbkzds7IS5Aknatm0s0=",
+  "Hash": "vBZ7+HCUMVhndcVdyVbnjmPzW7VWmfvNxAvBGPLWBcQ=",
   "Source": "MauiBlazorPizza",
   "BasePath": "/",
   "Mode": "Root",
@@ -510,6 +510,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icosair.png"
+    },
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\location.png",
+      "SourceId": "MauiBlazorPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/location.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\location.png"
+    },
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\register.png",
+      "SourceId": "MauiBlazorPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/register.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\register.png"
     },
     {
       "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\index.html",

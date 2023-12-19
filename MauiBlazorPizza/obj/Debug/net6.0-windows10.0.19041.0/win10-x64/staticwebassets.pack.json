@@ -109,6 +109,14 @@
       "PackagePath": "staticwebassets\\images\\icosair.png"
     },
     {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\register.png",
+      "PackagePath": "staticwebassets\\images\\register.png"
+    },
+    {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

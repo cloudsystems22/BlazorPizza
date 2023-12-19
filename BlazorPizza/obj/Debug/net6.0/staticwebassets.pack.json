@@ -69,6 +69,62 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\backgroundpizzaum.png",
+      "PackagePath": "staticwebassets\\images\\backgroundpizzaum.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icoaguardando.png",
+      "PackagePath": "staticwebassets\\images\\icoaguardando.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icocancelado.png",
+      "PackagePath": "staticwebassets\\images\\icocancelado.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icocatalog.png",
+      "PackagePath": "staticwebassets\\images\\icocatalog.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icochecado.png",
+      "PackagePath": "staticwebassets\\images\\icochecado.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icodelete.png",
+      "PackagePath": "staticwebassets\\images\\icodelete.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icoedit.png",
+      "PackagePath": "staticwebassets\\images\\icoedit.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icoementrega.png",
+      "PackagePath": "staticwebassets\\images\\icoementrega.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icoentrega.png",
+      "PackagePath": "staticwebassets\\images\\icoentrega.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\iconovo.png",
+      "PackagePath": "staticwebassets\\images\\iconovo.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icoperfil.png",
+      "PackagePath": "staticwebassets\\images\\icoperfil.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\icosair.png",
+      "PackagePath": "staticwebassets\\images\\icosair.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\register.png",
+      "PackagePath": "staticwebassets\\images\\register.png"
+    },
+    {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

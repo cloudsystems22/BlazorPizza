@@ -3,6 +3,12 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    background-image: url('images/backgroundpizzaum.png');
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 main[b-ywe5jeig9k] {
@@ -37,40 +43,9 @@ main[b-ywe5jeig9k] {
         text-overflow: ellipsis;
     }
 
-@media (max-width: 640.98px) {
-    .top-row:not(.auth)[b-ywe5jeig9k] {
-        display: none;
-    }
-
-    .top-row.auth[b-ywe5jeig9k] {
-        justify-content: space-between;
-    }
-
-    .top-row[b-ywe5jeig9k]  a, .top-row[b-ywe5jeig9k]  .btn-link {
-        margin-left: 0;
-    }
-}
-
-@media (min-width: 641px) {
+@media (max-width: 641px) {
     .page[b-ywe5jeig9k] {
         flex-direction: row;
-    }
-
-    .sidebar[b-ywe5jeig9k] {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
-    }
-
-    .top-row[b-ywe5jeig9k] {
-        position: sticky;
-        top: 0;
-        z-index: 1;
-    }
-
-    .top-row[b-ywe5jeig9k], article[b-ywe5jeig9k] {
-        padding-left: 2rem !important;
-        padding-right: 1.5rem !important;
+        background-image: linear-gradient(#000000, #000000);
     }
 }

@@ -1,3 +1,4 @@
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\RclShared.staticwebassets.runtime.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\MauiBlazorPizza.runtimeconfig.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\MauiBlazorPizza.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\MauiBlazorPizza.pdb
@@ -230,6 +231,8 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\RclShared.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\RclShared.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-ios\iossimulator-x64\staticwebassets\msbuild.MauiBlazorPizza.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-ios\iossimulator-x64\staticwebassets\msbuild.build.MauiBlazorPizza.props
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-ios\iossimulator-x64\staticwebassets\msbuild.buildMultiTargeting.MauiBlazorPizza.props
@@ -291,6 +294,3 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-ios\iossimulator-x64\MauiBlazorPizza.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-ios\iossimulator-x64\MauiBlazorPizza.genruntimeconfig.cache
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-ios\iossimulator-x64\ref\MauiBlazorPizza.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\RclShared.staticwebassets.runtime.json
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\RclShared.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-ios\iossimulator-x64\RclShared.pdb

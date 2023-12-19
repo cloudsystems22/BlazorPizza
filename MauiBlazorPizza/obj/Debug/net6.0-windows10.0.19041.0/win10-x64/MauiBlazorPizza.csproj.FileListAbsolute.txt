@@ -1,3 +1,4 @@
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclShared.staticwebassets.runtime.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorPizza.exe
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorPizza.deps.json
@@ -276,6 +277,8 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclShared.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclShared.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorPizza.csproj.AssemblyReference.cache
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.MauiBlazorPizza.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.MauiBlazorPizza.props
@@ -385,6 +388,3 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclShared.staticwebassets.runtime.json
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclShared.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclShared.pdb
