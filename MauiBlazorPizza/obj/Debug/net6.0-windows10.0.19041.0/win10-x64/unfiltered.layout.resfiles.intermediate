@@ -72,6 +72,8 @@ wwwroot\css\open-iconic\FONT-LICENSE
 wwwroot\css\open-iconic\ICON-LICENSE
 wwwroot\css\open-iconic\README.md
 wwwroot\favicon.ico
+wwwroot\images\back.png
+wwwroot\images\backcaroussel.png
 wwwroot\images\backgroundpizzamobile.png
 wwwroot\images\backgroundpizzaum.png
 wwwroot\images\icoaguardando.png
@@ -86,8 +88,13 @@ wwwroot\images\iconovo.png
 wwwroot\images\icoperfil.png
 wwwroot\images\icosair.png
 wwwroot\images\location.png
+wwwroot\images\next.png
+wwwroot\images\nextcaroussel.png
 wwwroot\images\register.png
 wwwroot\index.html
+wwwroot\_content\RclOrdering\RclOrdering.bundle.scp.css
+wwwroot\_content\RclOrdering\background.png
+wwwroot\_content\RclOrdering\exampleJsInterop.js
 wwwroot\_content\RclShared\RclShared.bundle.scp.css
 wwwroot\_content\RclShared\background.png
 wwwroot\_content\RclShared\exampleJsInterop.js

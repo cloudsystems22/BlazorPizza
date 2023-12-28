@@ -1,0 +1,29 @@
+﻿@inject HttpClient Http
+
+<div class="container-display-order">
+    <div class="div-amount">
+        <span>R$ @Amount</span>
+        <span>@Itens Itens</span>
+    </div>
+    <div class="div-amount">
+        <img src="images/icoentrega.png" />
+    </div>
+</div>
+
+@code {
+    private List<OrderDto>? Orders = new List<OrderDto>();
+
+    private float Amount { get; set; }
+
+    private int Itens { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Orders = await Http.GetFromJsonAsync<List<OrderDto>>("sample-data/pedidos.json");
+
+        Amount = Orders![1].Amount;
+
+        Itens = Orders![1].Itens!.Count;
+    }
+
+}

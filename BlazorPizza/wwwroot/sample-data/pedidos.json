@@ -1,0 +1,41 @@
+[
+  {
+    "uid": "85d692c8-3991-4f8c-a298-0ce7e364ad61",
+    "user_uid": "80de521a",
+    "order_data": "2023-12-27T10:35",
+    "itens": [
+      {
+        "uid_item": "acb046d9",
+        "item": "Pizza Calabreza",
+        "size": "G",
+        "quantity": 1,
+        "value": 56.42
+      }
+    ],
+    "tax": 1.12,
+    "amount": 57.54
+  },
+  {
+    "uid": "6ecf8fb4-de9a-4dfb-9ea3-132ae1f7af2f",
+    "user_uid": "3028ede7",
+    "order_data": "2023-12-27T10:55",
+    "itens": [
+      {
+        "uid_item": "acb046d9",
+        "item": "Pizza Calabreza",
+        "size": "P",
+        "quantity": 1,
+        "value": 53.69
+      },
+      {
+        "uid_item": "3625684b",
+        "item": "Pizza Muzzarela",
+        "size": "G",
+        "quantity": 1,
+        "value": 76.98
+      }
+    ],
+    "tax": 1.12,
+    "amount": 57.54
+  }
+]

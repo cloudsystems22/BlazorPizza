@@ -1,14 +1,15 @@
 ﻿a {
     text-decoration: none;
     color: #fff;
-    font-size: 10pt;
+    font-size: 8pt;
 }
 
 .nav-login {
+    height:53px;
 }
 
     .nav-login img {
-        height: 19px;
+        height: 15px;
     }
 
 @media (max-width: 641px) {

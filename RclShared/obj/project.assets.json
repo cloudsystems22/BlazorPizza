@@ -224,6 +224,19 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "RclOrdering/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
       }
     }
   },
@@ -539,11 +552,17 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "RclOrdering/1.0.0": {
+      "type": "project",
+      "path": "../RclOrdering/RclOrdering.csproj",
+      "msbuildProject": "../RclOrdering/RclOrdering.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.AspNetCore.Components.Web >= 6.0.21"
+      "Microsoft.AspNetCore.Components.Web >= 6.0.21",
+      "RclOrdering >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -578,7 +597,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\RclOrdering.csproj": {
+              "projectPath": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\RclOrdering.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

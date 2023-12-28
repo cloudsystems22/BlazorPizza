@@ -1322,9 +1322,18 @@
           "System.Text.Encodings.Web": "6.0.0"
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "runtime": {
+          "RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "runtime": {
           "RclShared.dll": {}
@@ -1621,6 +1630,11 @@
       "sha512": "sha512-zaJsHfESQvJ11vbXnNlkrR46IaMULk/gHxYsJphzSF+07kTjPHv+Oc14w6QEOfo3Q4hqLJgStUaYB9DBl0TmWg==",
       "path": "system.text.json/6.0.0",
       "hashPath": "system.text.json.6.0.0.nupkg.sha512"
+    },
+    "RclOrdering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "RclShared/1.0.0": {
       "type": "project",

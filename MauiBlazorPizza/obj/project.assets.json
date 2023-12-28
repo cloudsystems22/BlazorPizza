@@ -2302,11 +2302,25 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -4611,11 +4625,25 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -6920,11 +6948,25 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -9229,11 +9271,25 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -11538,11 +11594,25 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -13847,11 +13917,25 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -16156,11 +16240,25 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -18465,11 +18563,25 @@
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -19053,11 +19165,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -19635,11 +19761,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -20217,11 +20357,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -20799,11 +20953,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -21381,11 +21549,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -21963,11 +22145,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -22545,11 +22741,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -23127,11 +23337,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -23715,11 +23939,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -24297,11 +24535,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -24879,11 +25131,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -25461,11 +25727,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -26043,11 +26323,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -26625,11 +26919,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -27207,11 +27515,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -27789,11 +28111,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -28502,11 +28838,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -29181,11 +29531,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -29860,11 +30224,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -30539,11 +30917,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -31218,11 +31610,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -31897,11 +32303,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -32576,11 +32996,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -33261,11 +33695,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "RclShared/1.0.0": {
+      "RclOrdering/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/RclOrdering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RclOrdering.dll": {}
+        }
+      },
+      "RclShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.21",
+          "RclOrdering": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RclShared.dll": {}
@@ -36770,6 +37218,11 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "RclOrdering/1.0.0": {
+      "type": "project",
+      "path": "../RclOrdering/RclOrdering.csproj",
+      "msbuildProject": "../RclOrdering/RclOrdering.csproj"
     },
     "RclShared/1.0.0": {
       "type": "project",

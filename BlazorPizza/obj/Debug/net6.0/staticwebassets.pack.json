@@ -69,6 +69,14 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\back.png",
+      "PackagePath": "staticwebassets\\images\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\backcaroussel.png",
+      "PackagePath": "staticwebassets\\images\\backcaroussel.png"
+    },
+    {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\backgroundpizzaum.png",
       "PackagePath": "staticwebassets\\images\\backgroundpizzaum.png"
     },
@@ -121,12 +129,36 @@
       "PackagePath": "staticwebassets\\images\\location.png"
     },
     {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\nextcaroussel.png",
+      "PackagePath": "staticwebassets\\images\\nextcaroussel.png"
+    },
+    {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\images\\register.png",
       "PackagePath": "staticwebassets\\images\\register.png"
     },
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\sample-data\\pedidos.json",
+      "PackagePath": "staticwebassets\\sample-data\\pedidos.json"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\sample-data\\pizzas.json",
+      "PackagePath": "staticwebassets\\sample-data\\pizzas.json"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\sample-data\\size.json",
+      "PackagePath": "staticwebassets\\sample-data\\size.json"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\sample-data\\users.json",
+      "PackagePath": "staticwebassets\\sample-data\\users.json"
     },
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\BlazorPizza\\wwwroot\\sample-data\\weather.json",

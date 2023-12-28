@@ -1,0 +1,177 @@
+[
+  {
+    "uid": "2c2c5689",
+    "uid_item": "acb046d9",
+    "size": "P",
+    "value": 56.98,
+    "n_value": 53.69
+  },
+  {
+    "uid": "5b79e9e2",
+    "uid_item": "acb046d9",
+    "size": "M",
+    "value": 66.98,
+    "n_value": null
+  },
+  {
+    "uid": "85d692c8",
+    "uid_item": "acb046d9",
+    "size": "G",
+    "value": 76.98,
+    "n_value": null
+  },
+  {
+    "uid": "28a730d2",
+    "uid_item": "3625684b",
+    "size": "P",
+    "value": 56.98,
+    "n_value": null
+  },
+  {
+    "uid": "d407f323",
+    "uid_item": "3625684b",
+    "size": "M",
+    "value": 66.98,
+    "n_value": null
+  },
+  {
+    "uid": "6a6f187a",
+    "uid_item": "3625684b",
+    "size": "G",
+    "value": 76.98,
+    "n_value": null
+  },
+  {
+    "uid": "9e13a8f3",
+    "uid_item": "7efe1ae0",
+    "size": "P",
+    "value": 56.98,
+    "n_value": null
+  },
+  {
+    "uid": "95e95868",
+    "uid_item": "7efe1ae0",
+    "size": "M",
+    "value": 66.98,
+    "n_value": 56.98
+  },
+  {
+    "uid": "d96197af",
+    "uid_item": "7efe1ae0",
+    "size": "G",
+    "value": 76.98,
+    "n_value": null
+  },
+  {
+    "uid": "ea0cb421",
+    "uid_item": "4bf2bbb8",
+    "size": "P",
+    "value": 56.98,
+    "n_value": null
+  },
+  {
+    "uid": "d4cd4daf",
+    "uid_item": "4bf2bbb8",
+    "size": "M",
+    "value": 66.98,
+    "n_value": null
+  },
+  {
+    "uid": "951ef1f9",
+    "uid_item": "4bf2bbb8",
+    "size": "G",
+    "value": 76.98,
+    "n_value": null
+  },
+  {
+    "uid": "a7cf7ef5",
+    "uid_item": "e00dd8f0",
+    "size": "P",
+    "value": 56.98,
+    "n_value": null
+  },
+  {
+    "uid": "520342a1",
+    "uid_item": "e00dd8f0",
+    "size": "M",
+    "value": 66.98,
+    "n_value": null
+  },
+  {
+    "uid": "d6bc671e",
+    "uid_item": "e00dd8f0",
+    "size": "G",
+    "value": 76.98,
+    "n_value": null
+  },
+  {
+    "uid": "a7cf7ef5",
+    "uid_item": "161c7dcd",
+    "size": "P",
+    "value": 56.98,
+    "n_value": null
+  },
+  {
+    "uid": "520342a1",
+    "uid_item": "161c7dcd",
+    "size": "M",
+    "value": 66.98,
+    "n_value": null
+  },
+  {
+    "uid": "d6bc671e",
+    "uid_item": "161c7dcd",
+    "size": "G",
+    "value": 76.98,
+    "n_value": null
+  },
+  {
+    "uid": "8ed44371",
+    "uid_item": "161c7dcd",
+    "size": "S",
+    "value": 96.98,
+    "n_value": null
+  },
+  {
+    "uid": "7ff56984",
+    "uid_item": "c6a565ec",
+    "size": "P",
+    "value": 56.98,
+    "n_value": null
+  },
+  {
+    "uid": "32c11d8d",
+    "uid_item": "c6a565ec",
+    "size": "M",
+    "value": 66.98,
+    "n_value": null
+  },
+  {
+    "uid": "757b08cd",
+    "uid_item": "c6a565ec",
+    "size": "G",
+    "value": 76.98,
+    "n_value": null
+  },
+  {
+    "uid": "6edf8475",
+    "uid_item": "c64c6870",
+    "size": "P",
+    "value": 56.98,
+    "n_value": null
+  },
+  {
+    "uid": "1ec5e523",
+    "uid_item": "c64c6870",
+    "size": "M",
+    "value": 66.98,
+    "n_value": null
+  },
+  {
+    "uid": "dbdee99e",
+    "uid_item": "c64c6870",
+    "size": "G",
+    "value": 76.98,
+    "n_value": null
+  }
+]

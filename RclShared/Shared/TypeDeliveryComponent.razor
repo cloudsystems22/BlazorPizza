@@ -1,0 +1,25 @@
+﻿<div class="container-delivery-select">
+    <div class="@Entrega()" @onclick="Select">
+        <p>Entrega</p>
+    </div>
+    <div class="@Retirar()" @onclick="Select">
+        <p>Retirar</p>
+    </div>
+
+</div>
+
+@code {
+    private bool TypeDelivery { get; set; } = true;
+
+    public string Entrega() => (TypeDelivery) ? "select type-selected" : "select";
+
+    public string Retirar() => (TypeDelivery) ? "select" : "select type-selected";
+
+    void Select()
+    {
+        TypeDelivery = !TypeDelivery;
+    }
+
+
+
+}

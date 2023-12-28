@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "acb046d9",
+    "item": "Pizza calabresa",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate convallis erat, nec interdum tellus semper at. Donec volutpat mauris ac molestie tincidunt. Nunc tortor arcu, ultricies eget scelerisque vitae, gravida et felis.",
+    "uri_image": "pizza_calabresa.png"
+  },
+  {
+    "uid": "3625684b",
+    "item": "Pizza muzzarela",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate convallis erat, nec interdum tellus semper at. Donec volutpat mauris ac molestie tincidunt. Nunc tortor arcu, ultricies eget scelerisque vitae, gravida et felis.",
+    "uri_image": "pizza_muzzarela.png"
+  },
+  {
+    "uid": "7efe1ae0",
+    "item": "Pizza peperone",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate convallis erat, nec interdum tellus semper at. Donec volutpat mauris ac molestie tincidunt. Nunc tortor arcu, ultricies eget scelerisque vitae, gravida et felis.",
+    "uri_image": "pizza_peperone.png"
+  },
+  {
+    "uid": "4bf2bbb8",
+    "item": "Pizza camarão",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate convallis erat, nec interdum tellus semper at. Donec volutpat mauris ac molestie tincidunt. Nunc tortor arcu, ultricies eget scelerisque vitae, gravida et felis.",
+    "uri_image": "pizza_camarao.png"
+  },
+  {
+    "uid": "e00dd8f0",
+    "item": "Pizza frango com catupiry",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate convallis erat, nec interdum tellus semper at. Donec volutpat mauris ac molestie tincidunt. Nunc tortor arcu, ultricies eget scelerisque vitae, gravida et felis.",
+    "uri_image": "pizza_frango.png"
+  },
+  {
+    "uid": "161c7dcd",
+    "item": "Pizza corn bacon",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate convallis erat, nec interdum tellus semper at. Donec volutpat mauris ac molestie tincidunt. Nunc tortor arcu, ultricies eget scelerisque vitae, gravida et felis.",
+    "uri_image": "pizza_milho_com_bacon.png"
+  },
+  {
+    "uid": "c6a565ec",
+    "item": "Pizza de atum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate convallis erat, nec interdum tellus semper at. Donec volutpat mauris ac molestie tincidunt. Nunc tortor arcu, ultricies eget scelerisque vitae, gravida et felis.",
+    "uri_image": "pizza_atum.png"
+  },
+  {
+    "uid": "c64c6870",
+    "item": "Pizza quatros queijos",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate convallis erat, nec interdum tellus semper at. Donec volutpat mauris ac molestie tincidunt. Nunc tortor arcu, ultricies eget scelerisque vitae, gravida et felis.",
+    "uri_image": "pizza_quatro_queijo.png"
+  }
+]

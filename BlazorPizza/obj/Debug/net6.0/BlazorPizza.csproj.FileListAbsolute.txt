@@ -826,3 +826,12 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\refint\BlazorPizza.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\BlazorPizza.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\ref\BlazorPizza.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclOrdering.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclOrdering.pdb
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclOrdering.pdb.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\wwwroot\_framework\RclOrdering.dll.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclOrdering.staticwebassets.runtime.json
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclOrdering.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\bin\Debug\net6.0\RclOrdering.pdb
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\pi+ZDmGk.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\BlazorPizza\obj\Debug\net6.0\build-gz\7OgnKLjF.gz

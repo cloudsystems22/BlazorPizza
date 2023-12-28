@@ -850,8 +850,14 @@
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\.nuget\packages\microsoft.windowsappsdk\1.1.5\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\bin\Debug\net6.0\RclOrdering.dll">
+      <PackagePath>RclOrdering.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\bin\Debug\net6.0\RclShared.dll">
       <PackagePath>RclShared.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\obj\Debug\net6.0\staticwebassets.development.json">
+      <PackagePath>RclOrdering.staticwebassets.runtime.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\obj\Debug\net6.0\staticwebassets.development.json">
       <PackagePath>RclShared.staticwebassets.runtime.json</PackagePath>
@@ -913,6 +919,12 @@
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\back.png">
+      <PackagePath>wwwroot\images\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\backcaroussel.png">
+      <PackagePath>wwwroot\images\backcaroussel.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\backgroundpizzamobile.png">
       <PackagePath>wwwroot\images\backgroundpizzamobile.png</PackagePath>
     </AppxPackagedFile>
@@ -955,11 +967,26 @@
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\location.png">
       <PackagePath>wwwroot\images\location.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\next.png">
+      <PackagePath>wwwroot\images\next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\nextcaroussel.png">
+      <PackagePath>wwwroot\images\nextcaroussel.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\images\register.png">
       <PackagePath>wwwroot\images\register.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\obj\Debug\net6.0\scopedcss\projectbundle\RclOrdering.bundle.scp.css">
+      <PackagePath>wwwroot\_content\RclOrdering\RclOrdering.bundle.scp.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\wwwroot\background.png">
+      <PackagePath>wwwroot\_content\RclOrdering\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\wwwroot\exampleJsInterop.js">
+      <PackagePath>wwwroot\_content\RclOrdering\exampleJsInterop.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\obj\Debug\net6.0\scopedcss\projectbundle\RclShared.bundle.scp.css">
       <PackagePath>wwwroot\_content\RclShared\RclShared.bundle.scp.css</PackagePath>

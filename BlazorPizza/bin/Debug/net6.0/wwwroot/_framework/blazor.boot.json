@@ -196,15 +196,17 @@
       "mscorlib.dll": "sha256-jLSTHHaK0z\/mSPOgXaDKfukqvF20Fcm\/DLx+zz0kYsc=",
       "netstandard.dll": "sha256-eWmNGfejUeBAxr01xTdL9vgARF2KwlV2JPpYdaokts8=",
       "System.Private.CoreLib.dll": "sha256-5w4iRqv9MYyA0CG9D1wGOudtAmfU8mI10S6SKDD\/scI=",
-      "RclShared.dll": "sha256-7N3ehx9w6BYe\/MuR3+DQ42Q2S6uUlKTbqeFMmRCN2Yc=",
-      "BlazorPizza.dll": "sha256-b491hL3ZILy+dJnyEpFbluGKqPK2Y7TLura2wXkSEXM="
+      "RclOrdering.dll": "sha256-3Ox\/R8Hqi+g2bNyMPd48AX6TYwx9NA7tn1KY7RjsdNI=",
+      "RclShared.dll": "sha256-0bbd4J8QZs0dUCWaqBFlC9EbHHKfZLW8BCGP4U30Szo=",
+      "BlazorPizza.dll": "sha256-JUbBO\/lIPsHuoycHpyHM+Lvg44rabm6W8u3zwAByc1Q="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "RclShared.pdb": "sha256-BgL5\/M\/pJrwvsarnCERqhikLehhQ3HpDTFGLQJh1t7s=",
-      "BlazorPizza.pdb": "sha256-ooEzZqY6GEW0ACvEm1\/Witd2Xnh1A+ZxALgYqsAaA74="
+      "RclShared.pdb": "sha256-6yRaiZCeSrRsIxvrhcLNPfghcTO4016LX07FtCSc6kY=",
+      "RclOrdering.pdb": "sha256-0MiW1hhSz8n+fSCvD7s0dv9WB48Oqf2sX5u\/zZwR7sY=",
+      "BlazorPizza.pdb": "sha256-demrwNPx4tp1C3mw1+z3GOzwlcBTb3UJNGv4XXSjGGc="
     },
     "runtime": {
       "dotnet.6.0.22.h4kb03v3f0.js": "sha256-Vpgzm0BMIfPGXG2SCtEChw5HmXlQJIIS0eyBG8kP+u4=",

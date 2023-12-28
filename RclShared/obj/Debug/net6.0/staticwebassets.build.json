@@ -1,12 +1,31 @@
 {
   "Version": 1,
-  "Hash": "OGM/csR5fRwnlQIKVSnh7CAww0OJLiLCiI1RBqfpugY=",
+  "Hash": "xChZiwctAS1HA3xp6apn2990oUWhlIrHL2X/SeaawOs=",
   "Source": "RclShared",
   "BasePath": "_content/RclShared",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\RclOrdering.csproj",
+      "Version": 2,
+      "Source": "RclOrdering",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [
+    {
+      "Name": "RclOrdering\\wwwroot",
+      "Source": "RclOrdering",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\wwwroot\\",
+      "BasePath": "_content/RclOrdering",
+      "Pattern": "**"
+    },
     {
       "Name": "RclShared\\wwwroot",
       "Source": "RclShared",
@@ -16,6 +35,57 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RclOrdering.bundle.scp.css",
+      "SourceId": "RclOrdering",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RclOrdering",
+      "RelativePath": "RclOrdering.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RclOrdering.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\wwwroot\\background.png",
+      "SourceId": "RclOrdering",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\wwwroot\\",
+      "BasePath": "_content/RclOrdering",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "RclOrdering",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclOrdering\\wwwroot\\",
+      "BasePath": "_content/RclOrdering",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    },
     {
       "Identity": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RclShared.styles.css",
       "SourceId": "RclShared",

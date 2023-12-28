@@ -57,6 +57,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\back.png",
+      "PackagePath": "staticwebassets\\images\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\backcaroussel.png",
+      "PackagePath": "staticwebassets\\images\\backcaroussel.png"
+    },
+    {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\backgroundpizzamobile.png",
       "PackagePath": "staticwebassets\\images\\backgroundpizzamobile.png"
     },
@@ -111,6 +119,14 @@
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\location.png",
       "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\nextcaroussel.png",
+      "PackagePath": "staticwebassets\\images\\nextcaroussel.png"
     },
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\register.png",

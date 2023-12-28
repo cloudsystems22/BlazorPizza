@@ -388,3 +388,6 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclOrdering.staticwebassets.runtime.json
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclOrdering.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\RclOrdering.pdb
