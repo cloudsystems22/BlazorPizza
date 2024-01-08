@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RclShared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RclShared.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RclShared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RclShared.props",
+      "PackagePath": "build\\RclShared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RclShared.props",
+      "PackagePath": "buildMultiTargeting\\RclShared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RclShared.props",
+      "PackagePath": "buildTransitive\\RclShared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

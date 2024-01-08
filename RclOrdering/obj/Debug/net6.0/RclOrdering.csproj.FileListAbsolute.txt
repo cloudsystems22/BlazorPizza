@@ -22,3 +22,4 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\obj\Debug\net6.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\obj\Debug\net6.0\RclOrdering.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\obj\Debug\net6.0\ref\RclOrdering.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\obj\Debug\net6.0\scopedcss\Shared\DisplayOrderComponent.razor.rz.scp.css
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclOrdering\obj\Debug\net6.0\RclOrdering.sourcelink.json

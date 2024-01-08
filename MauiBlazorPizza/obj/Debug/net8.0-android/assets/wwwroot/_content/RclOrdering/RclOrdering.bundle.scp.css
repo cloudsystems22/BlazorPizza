@@ -1,0 +1,44 @@
+/* _content/RclOrdering/Component1.razor.rz.scp.css */
+.my-component[b-4zedll553u] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
+/* _content/RclOrdering/Shared/DisplayOrderComponent.razor.rz.scp.css */
+.container-display-order[b-1sd3lwxp42] {
+    min-width: 150px;
+    height: auto;
+    display: flex;
+    background-image: linear-gradient(#363535, #232222);
+    border-radius: 42px;
+    justify-content: center;
+    border: 2px solid #000;
+    position: absolute;
+    right: 5px;
+    top: 50px;
+}
+
+.div-amount[b-1sd3lwxp42] {
+    display: flex;
+    flex-direction: column;
+    margin: 8px;
+    justify-content: center;
+}
+
+    .div-amount span[b-1sd3lwxp42] {
+        width: 100%;
+        text-align: center;
+        font-size: 9pt;
+    }
+
+    .div-amount img[b-1sd3lwxp42]{
+        height: 43px;
+    }
+
+@media (max-width: 641px) {
+    .container-display-order[b-1sd3lwxp42] {
+        right: 40px;
+        top: -16px;
+    }
+}

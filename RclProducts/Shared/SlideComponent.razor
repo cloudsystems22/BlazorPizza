@@ -1,0 +1,36 @@
+﻿<div class="slide-children background-solid" style="margin-left:0%">
+    <div class="prod-container">
+        <div class="slide-img">
+            <img src="@(pathurlimg)" />
+        </div>
+        <div class="slide-descr">
+            <div class="slide-description-top">
+                <div>
+                    <p>@product!.Item</p>
+                </div>
+                <div>
+                    <p class="font-valor">R$ </p>
+                </div>
+            </div>
+            <div class="slide-description-middle">
+                <p>@product!.Description</p>
+            </div>
+            <div class="slide-description-botton">
+                @if(sizes == null)
+                {
+                    <p>Aguarde...!</p>
+                }
+                else
+                {
+                    @foreach (var size in sizes)
+                    {
+                        <p>@size.Size - R$ @size.Value</p>
+                    }
+                }
+                
+            </div>
+        </div>
+        
+
+    </div>
+</div>

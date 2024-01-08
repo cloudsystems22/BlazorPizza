@@ -1,0 +1,57 @@
+﻿.slide-children {
+    width: 25%;
+    height: 230px;
+    position: relative;
+    text-align: center;
+    transition: 1s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .slide-children p {
+        color: white;
+    }
+
+.background-solid {
+    background-color: #232222;
+}
+
+.prod-container {
+    width: 100%;
+    display: flex;
+    margin: 0 35px;
+}
+
+.slide-img {
+    width: 250px;
+    margin: 0 90px
+}
+
+.slide-img img{
+    height: 220px;
+}
+
+.slide-descr {
+    width: 550px;
+}
+
+.slide-description-top {
+    display: flex;
+    justify-content: space-between
+}
+
+.slide-description-middle p {
+    width: 100%;
+    text-align: justify;
+    font-size: 10pt;
+}
+
+.font-valor {
+    font-size: 20px;
+}
+
+.slide-description-botton{
+    display:flex;
+    justify-content: space-around;
+}

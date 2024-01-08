@@ -1,0 +1,19 @@
+﻿<section class="slider">
+    <div class="slider-container" style="width:@(witdthPerc)%">
+        <button @onclick="PreviousSlide" class="btn-slides-left"><img src="images/back.png" /></button>
+
+        @if(products == null)
+        {
+            <p>Aguarde carregando...</p>
+        }
+        else
+        {
+            @foreach (var pizza in products)
+            {
+                <SlideComponent product="@pizza" />
+            }
+        }
+
+        <button @onclick="NextSlide" class="btn-slides-right"><img src="images/next.png" /></button>
+    </div>
+</section>

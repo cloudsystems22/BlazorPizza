@@ -1,0 +1,19 @@
+a[b-k4765ysctj] {
+    text-decoration: none;
+    color: #fff;
+    font-size: 8pt;
+}
+
+.nav-login[b-k4765ysctj] {
+    height:53px;
+}
+
+    .nav-login img[b-k4765ysctj] {
+        height: 15px;
+    }
+
+@media (max-width: 641px) {
+    .nav-login[b-k4765ysctj]{
+        display:none;
+    }
+}

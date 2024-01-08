@@ -1,4 +1,8 @@
 ﻿using Microsoft.AspNetCore.Components.WebView.Maui;
+using RclOrdering.Services;
+using RclOrdering.Services.Interfaces;
+using RclProducts.Services.Interfaces;
+using RclProducts.Services;
 
 namespace MauiBlazorPizza
 {
@@ -18,6 +22,9 @@ namespace MauiBlazorPizza
 #if DEBUG
 		builder.Services.AddBlazorWebViewDeveloperTools();
 #endif
+            builder.Services.AddScoped<IOrderingRestServices, OrderingRestServices>();
+            builder.Services.AddScoped<IProductsRestServices, ProductsRestServices>();
+            builder.Services.AddScoped<ISizeRestServices, SizeRestServices>();
             return builder.Build();
         }
     }

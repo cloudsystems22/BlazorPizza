@@ -1,0 +1,51 @@
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-ywe5jeig9k] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-image: url('images/backgroundpizzaum.png');
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+main[b-ywe5jeig9k] {
+    flex: 1;
+}
+
+.sidebar[b-ywe5jeig9k] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-ywe5jeig9k] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-ywe5jeig9k]  a, .top-row[b-ywe5jeig9k]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-ywe5jeig9k]  a:hover, .top-row[b-ywe5jeig9k]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-ywe5jeig9k]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 641px) {
+    .page[b-ywe5jeig9k] {
+        flex-direction: row;
+        background-image: linear-gradient(#000000, #000000);
+    }
+}

@@ -1,23 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "GRpEcUfmxjUnutbFFBqK/lA6T6YjUIuOz7IxNlrh7wrNqp+oP16JaPzgvFxWidqGhxnuC2FoM1RGb7uXGtdVMg==",
+  "dgSpecHash": "DdMuJZPK8QjZwP7WzLKB64PqAcBVPpvNBcEbMONQZ/Sy9EJqI3iSaz46aN0IlfBcnWqFsNGWxGuqMAIKoqU0bA==",
   "success": true,
   "projectFilePath": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\RclShared\\RclShared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.21\\microsoft.aspnetcore.authorization.6.0.21.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.21\\microsoft.aspnetcore.components.6.0.21.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.21\\microsoft.aspnetcore.components.analyzers.6.0.21.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.21\\microsoft.aspnetcore.components.forms.6.0.21.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.21\\microsoft.aspnetcore.components.web.6.0.21.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.21\\microsoft.aspnetcore.metadata.6.0.21.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.jsinterop\\6.0.21\\microsoft.jsinterop.6.0.21.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
-    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.0\\microsoft.aspnetcore.components.analyzers.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.0\\microsoft.aspnetcore.components.forms.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.0\\microsoft.aspnetcore.components.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.0\\microsoft.aspnetcore.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.david.fico.neto\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

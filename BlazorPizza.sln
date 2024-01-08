@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RclShared", "RclShared\RclS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RclOrdering", "RclOrdering\RclOrdering.csproj", "{5A7CC69D-D06F-404E-818C-E86851FBA082}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RclProducts", "RclProducts\RclProducts.csproj", "{30E4211B-18D7-410F-9E74-FA2001FF284B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{5A7CC69D-D06F-404E-818C-E86851FBA082}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A7CC69D-D06F-404E-818C-E86851FBA082}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A7CC69D-D06F-404E-818C-E86851FBA082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E4211B-18D7-410F-9E74-FA2001FF284B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E4211B-18D7-410F-9E74-FA2001FF284B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E4211B-18D7-410F-9E74-FA2001FF284B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E4211B-18D7-410F-9E74-FA2001FF284B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

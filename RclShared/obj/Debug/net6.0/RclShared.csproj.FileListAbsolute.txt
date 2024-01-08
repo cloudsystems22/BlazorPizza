@@ -31,3 +31,4 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\bin\Debug\net6.0\R
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\bin\Debug\net6.0\RclOrdering.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\obj\Debug\net6.0\RclShared.csproj.CopyComplete
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\obj\Debug\net6.0\scopedcss\Shared\TypeDeliveryComponent.razor.rz.scp.css
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclShared\obj\Debug\net6.0\RclShared.sourcelink.json
