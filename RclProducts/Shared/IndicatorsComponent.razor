@@ -1,0 +1,14 @@
+﻿<div class="nav-item-auto">
+    @foreach(var indicator in Products)
+    {
+        @if (Products.IndexOf(indicator) != sliderUtilsService.Index)
+        {
+            <label class="select-slide" @onclick="(() => Changed(Products.IndexOf(indicator)))"></label>
+        }
+        else
+        {
+            <label class=" select-slide backgroud-solid" @onclick="(() => Changed(Products.IndexOf(indicator)))"></label>
+        }
+
+    }
+</div>

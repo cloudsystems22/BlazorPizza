@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RclOrdering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+030f12b8f83dd9563f169a6ffd1ac0b374b91434")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RclOrdering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RclOrdering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,6 +16,8 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RclProducts.props
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0\scopedcss\Shared\IndicatorsComponent.razor.rz.scp.css
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0\scopedcss\Shared\SizesComponent.razor.rz.scp.css
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0\scopedcss\Shared\SlideComponent.razor.rz.scp.css
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0\scopedcss\Shared\SliderComponent.razor.rz.scp.css
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\RclProducts\obj\Debug\net8.0\scopedcss\bundle\RclProducts.styles.css

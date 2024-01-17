@@ -13,5 +13,7 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 builder.Services.AddScoped<IOrderingRestServices, OrderingRestServices>();
 builder.Services.AddScoped<IProductsRestServices, ProductsRestServices>();
 builder.Services.AddScoped<ISizeRestServices, SizeRestServices>();
+builder.Services.AddScoped<IUtilsSizeServices, UtilsSizeServices>();
+builder.Services.AddScoped<ISliderUtilsServices, SliderUtilsServices>();
 
 await builder.Build().RunAsync();

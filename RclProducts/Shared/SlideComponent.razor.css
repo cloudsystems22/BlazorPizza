@@ -1,5 +1,4 @@
 ﻿.slide-children {
-    width: 25%;
     height: 230px;
     position: relative;
     text-align: center;
@@ -54,4 +53,17 @@
 .slide-description-botton{
     display:flex;
     justify-content: space-around;
+}
+
+.btn-pedir {
+    width: 200px;
+    height: 36px;
+    border: none;
+    border-radius: 6px;
+    background: #07BF0E;
+    color: white;
+}
+
+.div-sizes{
+    display:flex;
 }

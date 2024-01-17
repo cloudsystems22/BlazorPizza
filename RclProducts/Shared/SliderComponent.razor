@@ -1,8 +1,8 @@
 ﻿<section class="slider">
     <div class="slider-container" style="width:@(witdthPerc)%">
-        <button @onclick="PreviousSlide" class="btn-slides-left"><img src="images/back.png" /></button>
+        <button @onclick="PreviousSlide" disabled="@IsDisbledPrevious" class="btn-slides-left"><img src="images/back.png" /></button>
 
-        @if(products == null)
+        @if (products == null)
         {
             <p>Aguarde carregando...</p>
         }
@@ -10,10 +10,13 @@
         {
             @foreach (var pizza in products)
             {
-                <SlideComponent product="@pizza" />
+                <SlideComponent product="@pizza" width="@sliderUtilsService.WidthSlide"
+                                marginLeft="@(sliderUtilsService.MarginLeftSlide[products.IndexOf(pizza)])" />
             }
+
+            <IndicatorsComponent Products="@products" />
         }
 
-        <button @onclick="NextSlide" class="btn-slides-right"><img src="images/next.png" /></button>
+        <button @onclick="NextSlide" disabled="@IsDisabledNext" class="btn-slides-right"><img src="images/next.png" /></button>
     </div>
 </section>

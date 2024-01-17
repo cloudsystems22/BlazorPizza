@@ -9,6 +9,14 @@ namespace RclProducts.Shared
         [Parameter]
         public ProductDto? product { get; set; }
 
+        [Parameter]
+        public float? width { get; set; }
+
+        [Parameter]
+        public string? marginLeft { get; set; }
+
+        public int countSlide { get; set; } = 0;
+
         private List<SizeDto>? sizes { get; set; }
 
         private string? uidprod { get; set; }
@@ -17,7 +25,10 @@ namespace RclProducts.Shared
 
         [Inject]
         public ISizeRestServices _servicesSize { get; set; }
-        
+
+        [Inject]
+        public IUtilsSizeServices utilsSizeServices { get; set; }
+
         protected override async Task OnInitializedAsync()
         {
             uidprod = product!.Uid;
@@ -25,6 +36,7 @@ namespace RclProducts.Shared
 
             sizes = await _servicesSize.GetAll(uidprod);
 
+            utilsSizeServices.OnChange += StateHasChanged;
         }
     }
 }

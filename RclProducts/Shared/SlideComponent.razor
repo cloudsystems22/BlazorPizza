@@ -1,4 +1,4 @@
-﻿<div class="slide-children background-solid" style="margin-left:0%">
+﻿<div class="slide-children background-solid" style="@marginLeft; width:@(width)%">
     <div class="prod-container">
         <div class="slide-img">
             <img src="@(pathurlimg)" />
@@ -9,24 +9,26 @@
                     <p>@product!.Item</p>
                 </div>
                 <div>
-                    <p class="font-valor">R$ </p>
+                    <p class="font-valor">R$ @utilsSizeServices.ValueRefSize</p>
                 </div>
             </div>
             <div class="slide-description-middle">
                 <p>@product!.Description</p>
             </div>
             <div class="slide-description-botton">
-                @if(sizes == null)
-                {
-                    <p>Aguarde...!</p>
-                }
-                else
-                {
-                    @foreach (var size in sizes)
+                <div class="div-sizes">
+                    @if (sizes == null)
                     {
-                        <p>@size.Size - R$ @size.Value</p>
+                        <p>Aguarde...!</p>
                     }
-                }
+                    else
+                    {
+                        <SizesComponent Sizes="@sizes" />
+                    }
+                </div>
+                <div class="div-btn-pedir">
+                    <button class="btn-pedir">Pedir</button>
+                </div>
                 
             </div>
         </div>

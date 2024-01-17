@@ -5,31 +5,51 @@
     margin: 1em 0;
     background-image: url('background.png');
 }
-/* _content/RclProducts/Shared/SlideComponent.razor.rz.scp.css */
-body[b-l5ujxj2gvs] {
+/* _content/RclProducts/Shared/IndicatorsComponent.razor.rz.scp.css */
+body[b-q01sbcbcx4] {
 }
-/* _content/RclProducts/Shared/SliderComponent.razor.rz.scp.css */
-section.slider[b-v5uyh5mi7t] {
-    margin: 0 auto;
-    padding: 0 !important;
-    width: 100%;
-    height: auto;
-    overflow: hidden;
+/* _content/RclProducts/Shared/SizesComponent.razor.rz.scp.css */
+p[b-4ugtdo8opn] {
+    color:white;
 }
 
-.slider-container[b-v5uyh5mi7t] {
-    width: 400%;
-    height: auto;
+.selc-size[b-4ugtdo8opn] {
     display: flex;
+    flex-direction: column;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
 }
 
-    .slider-container input[b-v5uyh5mi7t] {
-        display: none;
-    }
+.selc-size-p[b-4ugtdo8opn]{
+    font-size:10pt
+}
 
-.slide-children[b-v5uyh5mi7t] {
+.btn-size[b-4ugtdo8opn] {
+    width: 46px;
+    height: 32px;
+    border-radius: 6px;
+    border: 1px solid #D5B403;
+    background: rgba(217, 217, 217, 0.00);
+    justify-content: center;
+    align-items: center;
+    transition: 300ms linear;
+}
+
+.btn-size p[b-4ugtdo8opn]{
+    margin:0;
+    padding:0;
+}
+
+.btn-size-selectd[b-4ugtdo8opn] {
+    border-radius: 6px;
+    border: 1px solid #D5B403;
+    background: #D5B403;
+}
+/* _content/RclProducts/Shared/SlideComponent.razor.rz.scp.css */
+.slide-children[b-l5ujxj2gvs] {
     width: 25%;
-    height: 320px;
+    height: 230px;
     position: relative;
     text-align: center;
     transition: 1s;
@@ -38,29 +58,87 @@ section.slider[b-v5uyh5mi7t] {
     align-items: center;
 }
 
-    .slide-children p[b-v5uyh5mi7t] {
+    .slide-children p[b-l5ujxj2gvs] {
         color: white;
     }
 
-.backgroud-solid[b-v5uyh5mi7t] {
-    background-color: #fff;
+.background-solid[b-l5ujxj2gvs] {
+    background-color: #232222;
 }
 
-.black[b-v5uyh5mi7t] {
-    background-color: #242629;
+.prod-container[b-l5ujxj2gvs] {
+    width: 100%;
+    display: flex;
+    margin: 0 35px;
 }
 
-.blue[b-v5uyh5mi7t] {
-    background-color: #1c31e6;
+.slide-img[b-l5ujxj2gvs] {
+    width: 250px;
+    margin: 0 90px
 }
 
-.pink[b-v5uyh5mi7t] {
-    background-color: #f63954;
+.slide-img img[b-l5ujxj2gvs]{
+    height: 220px;
 }
 
-.yelow[b-v5uyh5mi7t] {
-    background-color: #ffd800;
+.slide-descr[b-l5ujxj2gvs] {
+    width: 550px;
 }
+
+.slide-description-top[b-l5ujxj2gvs] {
+    display: flex;
+    justify-content: space-between
+}
+
+.slide-description-middle p[b-l5ujxj2gvs] {
+    width: 100%;
+    text-align: justify;
+    font-size: 10pt;
+}
+
+.font-valor[b-l5ujxj2gvs] {
+    font-size: 20px;
+}
+
+.slide-description-botton[b-l5ujxj2gvs]{
+    display:flex;
+    justify-content: space-around;
+}
+
+.btn-pedir[b-l5ujxj2gvs] {
+    width: 200px;
+    height: 36px;
+    border: none;
+    border-radius: 6px;
+    background: #07BF0E;
+    color: white;
+}
+
+.div-sizes[b-l5ujxj2gvs]{
+    display:flex;
+}
+/* _content/RclProducts/Shared/SliderComponent.razor.rz.scp.css */
+section.slider[b-v5uyh5mi7t] {
+    margin: 0 auto;
+    padding: 0 !important;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: absolute;
+    top: 115px;
+    left:0;
+}
+
+.slider-container[b-v5uyh5mi7t] {
+/*    width: 800%;*/
+    height: auto;
+    display: flex;
+}
+
+    .slider-container input[b-v5uyh5mi7t] {
+        display: none;
+    }
+
 
 .triangle-right[b-v5uyh5mi7t] {
     width: 0;
@@ -73,7 +151,7 @@ section.slider[b-v5uyh5mi7t] {
 .btn-slides-left[b-v5uyh5mi7t] {
     border: 0;
     padding: 0;
-    height: 310px;
+    height: 210px;
     color: white;
     background-color: transparent;
     z-index: 100;
@@ -81,13 +159,13 @@ section.slider[b-v5uyh5mi7t] {
 }
 
     .btn-slides-left img[b-v5uyh5mi7t] {
-        height: 32px;
+        height: 28px;
     }
 
 .btn-slides-right[b-v5uyh5mi7t] {
     border: 0;
     padding: 0;
-    height: 310px;
+    height: 210px;
     color: white;
     background-color: transparent;
     z-index: 100;
@@ -96,7 +174,7 @@ section.slider[b-v5uyh5mi7t] {
 }
 
     .btn-slides-right img[b-v5uyh5mi7t] {
-        height: 32px;
+        height: 28px;
     }
 
 .nav-slides[b-v5uyh5mi7t] {

@@ -1,0 +1,37 @@
+﻿p {
+    color:white;
+}
+
+.selc-size {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.selc-size-p{
+    font-size:10pt
+}
+
+.btn-size {
+    width: 46px;
+    height: 32px;
+    border-radius: 6px;
+    border: 1px solid #D5B403;
+    background: rgba(217, 217, 217, 0.00);
+    justify-content: center;
+    align-items: center;
+    transition: 300ms linear;
+}
+
+.btn-size p{
+    margin:0;
+    padding:0;
+}
+
+.btn-size-selectd {
+    border-radius: 6px;
+    border: 1px solid #D5B403;
+    background: #D5B403;
+}

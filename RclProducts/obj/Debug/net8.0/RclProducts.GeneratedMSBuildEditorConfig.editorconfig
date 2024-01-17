@@ -26,6 +26,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-yylhfb80qu
 
+[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/IndicatorsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEluZGljYXRvcnNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-q01sbcbcx4
+
+[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/SizesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNpemVzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-4ugtdo8opn
+
 [C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/SlideComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNsaWRlQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-l5ujxj2gvs
