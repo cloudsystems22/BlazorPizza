@@ -8,6 +8,10 @@
     justify-content: center;
 }
 
+    .nav-item-auto label {
+        color: #fff;
+    }
+
 .select-slide {
     width: 10px;
     height: 10px;
@@ -20,4 +24,11 @@
 
 .backgroud-solid {
     background-color: #fff;
+}
+
+
+@media (max-width:640px){
+    .nav-item-auto {
+        display: none;
+    }
 }

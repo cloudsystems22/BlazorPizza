@@ -1,4 +1,3 @@
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclProducts.staticwebassets.runtime.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclOrdering.staticwebassets.runtime.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclShared.staticwebassets.runtime.json
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiBlazorPizza.runtimeconfig.json
@@ -25,6 +24,7 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.JSInterop.dll
@@ -274,9 +274,7 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclOrdering.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclProducts.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclShared.dll
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclProducts.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclShared.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclOrdering.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.build.json
@@ -286,7 +284,6 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildMultiTargeting.MauiBlazorPizza.props
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildTransitive.MauiBlazorPizza.props
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.pack.json
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\bundle\MauiBlazorPizza.styles.css
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\projectbundle\MauiBlazorPizza.bundle.scp.css
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.publish.json
@@ -335,3 +332,7 @@ C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\ne
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiBlazorPizza.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiBlazorPizza.genruntimeconfig.cache
 C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\MauiBlazorPizza.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclProducts.staticwebassets.runtime.json
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclProducts.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RclProducts.pdb

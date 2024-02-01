@@ -1,4 +1,4 @@
-﻿section.slider {
+﻿.slider {
     margin: 0 auto;
     padding: 0 !important;
     width: 100%;
@@ -66,20 +66,6 @@
     position: absolute;
 }
 
-.nav-item-auto {
-    z-index: 100;
-    position: absolute;
-    left: 47%;
-    bottom: 50%;
-    display: flex;
-    align-items: end;
-    justify-content: center;
-}
-
-    .nav-item-auto label {
-        color: #fff;
-    }
-
 .select-slide {
     width: 10px;
     height: 10px;
@@ -94,3 +80,10 @@
         background-color: #ffffffc8;
         transition: 1s;
     }
+
+@media (max-width: 640px) {
+    .slider {
+        top:60px;
+    }
+
+}

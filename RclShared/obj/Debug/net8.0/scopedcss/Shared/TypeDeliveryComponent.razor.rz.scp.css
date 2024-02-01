@@ -33,3 +33,9 @@
     cursor: auto;
     transition: 200ms;
 }
+
+@media (max-width: 640px){
+    .container-delivery-select[b-pyuq0tl8uj]{
+        display:none;
+    }
+}

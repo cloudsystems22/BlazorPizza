@@ -10,9 +10,9 @@ namespace RclOrdering.Services
         JsonSerializerOptions _serializerOptions;
 
         private List<OrderDto> _orders;
-        public OrderingRestServices()
+        public OrderingRestServices(HttpClient client)
         {
-            _client = new HttpClient();
+            _client = client;
             _serializerOptions = new JsonSerializerOptions
             {
                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
@@ -26,11 +26,11 @@ namespace RclOrdering.Services
         {
             _orders = new List<OrderDto>();
 
-            Uri uri = new Uri("http://localhost:5238");
-                       
+            Uri uri = new Uri(_client.BaseAddress!.ToString());
+
             try
             {
-                HttpResponseMessage httpResponseMessage = await _client.GetAsync($"{uri}/sample-data/pedidos.json");
+                HttpResponseMessage httpResponseMessage = await _client.GetAsync($"{uri}sample-data/pedidos.json");
                 if(httpResponseMessage.IsSuccessStatusCode)
                 {
                     string content = await httpResponseMessage.Content.ReadAsStringAsync();

@@ -6,7 +6,39 @@
     background-image: url('background.png');
 }
 /* _content/RclProducts/Shared/IndicatorsComponent.razor.rz.scp.css */
-body[b-q01sbcbcx4] {
+.nav-item-auto[b-q01sbcbcx4] {
+    z-index: 100;
+    position: absolute;
+    left: 47%;
+    bottom: 2%;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+    .nav-item-auto label[b-q01sbcbcx4] {
+        color: #fff;
+    }
+
+.select-slide[b-q01sbcbcx4] {
+    width: 10px;
+    height: 10px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    margin: 2px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.backgroud-solid[b-q01sbcbcx4] {
+    background-color: #fff;
+}
+
+
+@media (max-width:640px){
+    .nav-item-auto[b-q01sbcbcx4] {
+        display: none;
+    }
 }
 /* _content/RclProducts/Shared/SizesComponent.razor.rz.scp.css */
 p[b-4ugtdo8opn] {
@@ -46,9 +78,18 @@ p[b-4ugtdo8opn] {
     border: 1px solid #D5B403;
     background: #D5B403;
 }
+
+@media (max-width:640px){
+    .selc-size[b-4ugtdo8opn]{
+        margin:3px;
+    }
+
+    .selc-size-p[b-4ugtdo8opn]{
+        font-size:8pt;
+    }
+}
 /* _content/RclProducts/Shared/SlideComponent.razor.rz.scp.css */
 .slide-children[b-l5ujxj2gvs] {
-    width: 25%;
     height: 230px;
     position: relative;
     text-align: center;
@@ -60,6 +101,7 @@ p[b-4ugtdo8opn] {
 
     .slide-children p[b-l5ujxj2gvs] {
         color: white;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
 
 .background-solid[b-l5ujxj2gvs] {
@@ -117,8 +159,55 @@ p[b-4ugtdo8opn] {
 .div-sizes[b-l5ujxj2gvs]{
     display:flex;
 }
+
+
+@media (max-width: 641px){
+    .slide-children[b-l5ujxj2gvs]{
+        height: 350px;
+    }
+
+    .slide-img[b-l5ujxj2gvs] {
+        position: absolute;
+        top: 5px;
+        left: 15%;
+        margin: 1px;
+    }
+    .slide-descr[b-l5ujxj2gvs] {
+        position: absolute;
+        left: 0;
+        margin: 5px;
+        bottom: 15px;
+    }
+
+    .slide-description-middle p[b-l5ujxj2gvs] {
+        font-size: 7pt;
+        width: 350px;
+    }
+
+    .slide-description-botton[b-l5ujxj2gvs]{
+        height:45px;
+    }
+
+    .div-sizes[b-l5ujxj2gvs] {
+        position: absolute;
+        left: 0px;
+        margin-top: 14px;
+    }
+
+    .btn-pedir[b-l5ujxj2gvs] {
+        height: 30px;
+        width: 150px;
+        margin-top:33px;
+    }
+
+    .div-value-prod[b-l5ujxj2gvs] {
+        position: absolute;
+        right: 40%;
+        bottom: 0px;
+    }
+}
 /* _content/RclProducts/Shared/SliderComponent.razor.rz.scp.css */
-section.slider[b-v5uyh5mi7t] {
+.slider[b-v5uyh5mi7t] {
     margin: 0 auto;
     padding: 0 !important;
     width: 100%;
@@ -186,20 +275,6 @@ section.slider[b-v5uyh5mi7t] {
     position: absolute;
 }
 
-.nav-item-auto[b-v5uyh5mi7t] {
-    z-index: 100;
-    position: absolute;
-    left: 47%;
-    bottom: 50%;
-    display: flex;
-    align-items: end;
-    justify-content: center;
-}
-
-    .nav-item-auto label[b-v5uyh5mi7t] {
-        color: #fff;
-    }
-
 .select-slide[b-v5uyh5mi7t] {
     width: 10px;
     height: 10px;
@@ -214,3 +289,10 @@ section.slider[b-v5uyh5mi7t] {
         background-color: #ffffffc8;
         transition: 1s;
     }
+
+@media (max-width: 640px) {
+    .slider[b-v5uyh5mi7t] {
+        top:60px;
+    }
+
+}

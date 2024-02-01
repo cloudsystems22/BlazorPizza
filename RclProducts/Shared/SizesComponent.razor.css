@@ -35,3 +35,13 @@
     border: 1px solid #D5B403;
     background: #D5B403;
 }
+
+@media (max-width:640px){
+    .selc-size{
+        margin:3px;
+    }
+
+    .selc-size-p{
+        font-size:8pt;
+    }
+}

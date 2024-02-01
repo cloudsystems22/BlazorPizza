@@ -12,9 +12,9 @@ namespace RclProducts.Services
 
         private List<SizeDto> _sizes;
 
-        public SizeRestServices()
+        public SizeRestServices(HttpClient client)
         {
-            _client = new HttpClient();
+            _client = client;
             _serializerOptions = new JsonSerializerOptions
             {
                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
@@ -25,11 +25,11 @@ namespace RclProducts.Services
         {
             _sizes = new List<SizeDto>();
 
-            Uri uri = new Uri("http://localhost:5238");
+            Uri uri = new Uri(_client.BaseAddress!.ToString());
 
             try
             {
-                HttpResponseMessage httpResponseMessage = await _client.GetAsync($"{uri}/sample-data/size.json");
+                HttpResponseMessage httpResponseMessage = await _client.GetAsync($"{uri}sample-data/size.json");
                 if (httpResponseMessage.IsSuccessStatusCode)
                 {
                     string content = await httpResponseMessage.Content.ReadAsStringAsync();

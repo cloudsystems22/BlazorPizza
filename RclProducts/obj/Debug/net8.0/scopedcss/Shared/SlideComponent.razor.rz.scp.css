@@ -10,6 +10,7 @@
 
     .slide-children p[b-l5ujxj2gvs] {
         color: white;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
 
 .background-solid[b-l5ujxj2gvs] {
@@ -66,4 +67,51 @@
 
 .div-sizes[b-l5ujxj2gvs]{
     display:flex;
+}
+
+
+@media (max-width: 641px){
+    .slide-children[b-l5ujxj2gvs]{
+        height: 350px;
+    }
+
+    .slide-img[b-l5ujxj2gvs] {
+        position: absolute;
+        top: 5px;
+        left: 15%;
+        margin: 1px;
+    }
+    .slide-descr[b-l5ujxj2gvs] {
+        position: absolute;
+        left: 0;
+        margin: 5px;
+        bottom: 15px;
+    }
+
+    .slide-description-middle p[b-l5ujxj2gvs] {
+        font-size: 7pt;
+        width: 350px;
+    }
+
+    .slide-description-botton[b-l5ujxj2gvs]{
+        height:45px;
+    }
+
+    .div-sizes[b-l5ujxj2gvs] {
+        position: absolute;
+        left: 0px;
+        margin-top: 14px;
+    }
+
+    .btn-pedir[b-l5ujxj2gvs] {
+        height: 30px;
+        width: 150px;
+        margin-top:33px;
+    }
+
+    .div-value-prod[b-l5ujxj2gvs] {
+        position: absolute;
+        right: 40%;
+        bottom: 0px;
+    }
 }

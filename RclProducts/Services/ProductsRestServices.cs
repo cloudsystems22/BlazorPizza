@@ -10,9 +10,9 @@ namespace RclProducts.Services
         JsonSerializerOptions _serializerOptions;
 
         private List<ProductDto> products;
-        public ProductsRestServices() 
+        public ProductsRestServices(HttpClient client)
         {
-            _client = new HttpClient();
+            _client = client;
             _serializerOptions = new JsonSerializerOptions
             {
                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
@@ -23,11 +23,12 @@ namespace RclProducts.Services
         {
             products = new List<ProductDto>();
 
-            Uri uri = new Uri("http://localhost:5238");
+            //Uri uri = new Uri("https://localhost:7255");
+            Uri uri = new Uri(_client.BaseAddress!.ToString());
 
             try
             {
-                HttpResponseMessage httpResponseMessage = await _client.GetAsync($"{uri}/sample-data/pizzas.json");
+                HttpResponseMessage httpResponseMessage = await _client.GetAsync($"{uri}sample-data/pizzas.json");
                 if (httpResponseMessage.IsSuccessStatusCode)
                 {
                     string content = await httpResponseMessage.Content.ReadAsStringAsync();

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap">
-  <Identity Name="7029BFA9-9F0A-4661-9B4C-EE993C64EFC4" Publisher="CN=User Name" Version="1.0.0.1" />
-  <mp:PhoneIdentity PhoneProductId="4819DC44-4795-4EBF-983C-F137CF051EF7" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="com.companyname.mauiblazorpizza" Publisher="CN=User Name" Version="1.0.0.1" />
+  <mp:PhoneIdentity PhoneProductId="D05C6CFF-6F50-485D-B829-E166024F6E8A" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>MauiBlazorPizza</DisplayName>
     <PublisherDisplayName>User Name</PublisherDisplayName>

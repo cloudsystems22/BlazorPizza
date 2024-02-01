@@ -25,6 +25,7 @@ public class MonoPackageManager_Resources {
 		"Microsoft.Extensions.FileSystemGlobbing.dll",
 		"Microsoft.Extensions.Logging.dll",
 		"Microsoft.Extensions.Logging.Abstractions.dll",
+		"Microsoft.Extensions.Logging.Debug.dll",
 		"Microsoft.Extensions.Options.dll",
 		"Microsoft.Extensions.Primitives.dll",
 		"Microsoft.JSInterop.dll",

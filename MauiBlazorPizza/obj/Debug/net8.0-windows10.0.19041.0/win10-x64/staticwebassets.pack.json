@@ -17,44 +17,8 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "PackagePath": "staticwebassets\\css\\open-iconic"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
-      "PackagePath": "staticwebassets\\css\\open-iconic"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\README.md",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\back.png",
@@ -63,10 +27,6 @@
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\backcaroussel.png",
       "PackagePath": "staticwebassets\\images\\backcaroussel.png"
-    },
-    {
-      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\backgroundpizzamobile.png",
-      "PackagePath": "staticwebassets\\images\\backgroundpizzamobile.png"
     },
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\backgroundpizzaum.png",
@@ -131,6 +91,38 @@
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\images\\register.png",
       "PackagePath": "staticwebassets\\images\\register.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\imgpizza\\pizza_atum.png",
+      "PackagePath": "staticwebassets\\imgpizza\\pizza_atum.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\imgpizza\\pizza_calabresa.png",
+      "PackagePath": "staticwebassets\\imgpizza\\pizza_calabresa.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\imgpizza\\pizza_camarao.png",
+      "PackagePath": "staticwebassets\\imgpizza\\pizza_camarao.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\imgpizza\\pizza_frango.png",
+      "PackagePath": "staticwebassets\\imgpizza\\pizza_frango.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\imgpizza\\pizza_milho_com_bacon.png",
+      "PackagePath": "staticwebassets\\imgpizza\\pizza_milho_com_bacon.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\imgpizza\\pizza_muzzarela.png",
+      "PackagePath": "staticwebassets\\imgpizza\\pizza_muzzarela.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\imgpizza\\pizza_peperone.png",
+      "PackagePath": "staticwebassets\\imgpizza\\pizza_peperone.png"
+    },
+    {
+      "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\imgpizza\\pizza_quatro_queijo.png",
+      "PackagePath": "staticwebassets\\imgpizza\\pizza_quatro_queijo.png"
     },
     {
       "Id": "C:\\Users\\a.david.fico.neto\\source\\repos\\BlazorPizza\\MauiBlazorPizza\\wwwroot\\index.html",

@@ -47,9 +47,43 @@ main[b-1glcplc4ud] {
         text-overflow: ellipsis;
     }
 
+@media (max-width: 640.98px) {
+    .top-row[b-1glcplc4ud] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-1glcplc4ud]  a, .top-row[b-1glcplc4ud]  .btn-link {
+        margin-left: 0;
+    }
+}
+
 @media (max-width: 641px) {
     .page[b-1glcplc4ud] {
         flex-direction: row;
         background-image: linear-gradient(#000000, #000000);
+    }
+
+    .sidebar[b-1glcplc4ud] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-1glcplc4ud] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-1glcplc4ud]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-1glcplc4ud], article[b-1glcplc4ud] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
     }
 }

@@ -1,1 +1,0 @@
-C:\Users\a.david.fico.neto\source\repos\BlazorPizza\MauiBlazorPizza\MauiBlazorPizza.csproj;x64

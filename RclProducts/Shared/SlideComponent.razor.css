@@ -10,6 +10,7 @@
 
     .slide-children p {
         color: white;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
 
 .background-solid {
@@ -66,4 +67,51 @@
 
 .div-sizes{
     display:flex;
+}
+
+
+@media (max-width: 641px){
+    .slide-children{
+        height: 350px;
+    }
+
+    .slide-img {
+        position: absolute;
+        top: 5px;
+        left: 15%;
+        margin: 1px;
+    }
+    .slide-descr {
+        position: absolute;
+        left: 0;
+        margin: 5px;
+        bottom: 15px;
+    }
+
+    .slide-description-middle p {
+        font-size: 7pt;
+        width: 350px;
+    }
+
+    .slide-description-botton{
+        height:45px;
+    }
+
+    .div-sizes {
+        position: absolute;
+        left: 0px;
+        margin-top: 14px;
+    }
+
+    .btn-pedir {
+        height: 30px;
+        width: 150px;
+        margin-top:33px;
+    }
+
+    .div-value-prod {
+        position: absolute;
+        right: 40%;
+        bottom: 0px;
+    }
 }

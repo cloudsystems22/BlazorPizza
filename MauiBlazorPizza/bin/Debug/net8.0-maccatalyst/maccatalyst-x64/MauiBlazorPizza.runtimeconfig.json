@@ -4,11 +4,11 @@
     "includedFrameworks": [
       {
         "name": "Microsoft.NETCore.App",
-        "version": "8.0.0"
+        "version": "8.0.1"
       },
       {
         "name": "Microsoft.MacCatalyst",
-        "version": "17.0.8478"
+        "version": "17.2.8004"
       }
     ],
     "configProperties": {

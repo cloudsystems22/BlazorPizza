@@ -21,4 +21,5 @@ namespace MauiBlazorPizza.WinUI
 
         protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
     }
+
 }
