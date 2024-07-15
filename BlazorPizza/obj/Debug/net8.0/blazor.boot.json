@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorPizza",
   "resources": {
-    "hash": "sha256-RQxdNG7RCeQYU7vv3Jk/0vZ6PRu9wWjI3hJmjK3hxPM=",
+    "hash": "sha256-1PudZ0logbcSjrd1ofuozOXTHAbXAp8sHAYdyg2ogCM=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.f52uluyr39.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -208,16 +208,16 @@
       "mscorlib.wasm": "sha256-EpWTfh4m/hEcXRFYMCR9YeYHwdUJgcm1laBaxWfq2S4=",
       "netstandard.wasm": "sha256-2kH24/YfHmU3B4eYRyRmiwebYROM4+B9eDWKvMnUdP8=",
       "System.Private.CoreLib.wasm": "sha256-CsySKiP7HYY1pS8LTDE60EkqiX5oHb3WoEZHDNd1yK0=",
-      "RclOrdering.wasm": "sha256-23bWoCQje2oLvN1iVQPmVALrWFLfNtG1TQrFg+py4FA=",
-      "RclProducts.wasm": "sha256-sO/Hekkdo7MuO39yNDz2cFRW46olx04Jt/aqBOug+y8=",
-      "RclShared.wasm": "sha256-c8WhgnQ/MlyvmJ3eIZ49Nhk0iSlMLrEFdE5HHJu4ySA=",
-      "BlazorPizza.wasm": "sha256-uqMOQnas2gw6PGbHEudUuweufZJvDKPRqoj0U6D+t+M="
+      "RclOrdering.wasm": "sha256-m4RVb4k7sl4vM7rejjA1u5ZW49FRa9BlccbkHyfILmk=",
+      "RclProducts.wasm": "sha256-Z1evEcbU6T2XLxbcP1nhGjmXfQIOGus6XUIGwYYPmFQ=",
+      "RclShared.wasm": "sha256-XZBSDu9shCaPT9YgAF1Y2dgiia4n06jNZa/8UFYAE9c=",
+      "BlazorPizza.wasm": "sha256-rApaJYuyA/GShjZHbkLtmRtkNQRPysP0gj22NvOIS9M="
     },
     "pdb": {
-      "RclProducts.pdb": "sha256-cVf/9wAOx2rOVD0yknXr4z9aP3Ptu119uAT7UKsHUZI=",
-      "RclShared.pdb": "sha256-Qd55ntEBj2YRM3ctuBSKRcvZVJsR5J/ENeXtvIn65TU=",
-      "RclOrdering.pdb": "sha256-2jFbbYk6pWnEhP5QKYLXyFphaUMK0Kw9EUwxWfKzfps=",
-      "BlazorPizza.pdb": "sha256-ZyfQx51YcfW0J+PObxD/17l56dXyAKbUCgDXScbhHuE="
+      "RclProducts.pdb": "sha256-ttSVS8RxKCf+VgQsU8FzBC4vJ88+Jp0zCZFo0W+P7pg=",
+      "RclShared.pdb": "sha256-JGxDpSdAg6sl4n4tSW7qjYJzEHIRydjxQedclmjptlc=",
+      "RclOrdering.pdb": "sha256-dRLoVARP6Y144Jq1ygkXkwoRordvwsNVgujYUF8Qc7s=",
+      "BlazorPizza.pdb": "sha256-2U+h3Jj5FrFFEgw8eTnMdcQgqWujBi1jdzIx5M0OaEI="
     }
   },
   "cacheBootResources": true,

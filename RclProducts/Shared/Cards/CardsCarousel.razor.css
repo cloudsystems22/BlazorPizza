@@ -1,0 +1,45 @@
+﻿.carousel-cards {
+    margin: 0 auto;
+    padding: 0 !important;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: absolute;
+    top: 379px;
+    left: 0;
+}
+
+.cards-container {
+    width: 400%;
+    height: auto;
+    display: flex;
+}
+
+.btn-cards-left {
+    border: 0;
+    padding: 0;
+    height: 140px;
+    color: white;
+    background-color: transparent;
+    z-index: 100;
+    position: absolute;
+}
+
+    .btn-cards-left img {
+        height: 28px;
+    }
+
+.btn-cards-right {
+    border: 0;
+    padding: 0;
+    height: 140px;
+    color: white;
+    background-color: transparent;
+    z-index: 100;
+    position: absolute;
+    right: 0;
+}
+
+    .btn-cards-right img {
+        height: 28px;
+    }

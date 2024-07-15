@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiBlazorPizza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+23d4044615369bd9e61ae418f214b2beb63586b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d23f9c313551fc0784e8040f630a45f41bf02470")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiBlazorPizza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiBlazorPizza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

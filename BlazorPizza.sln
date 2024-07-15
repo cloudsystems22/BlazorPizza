@@ -10,7 +10,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RclProducts", "RclProducts\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorPizza", "BlazorPizza\BlazorPizza.csproj", "{38588ED2-5044-49BA-845C-651BFE9B8A51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorPizza", "MauiBlazorPizza\MauiBlazorPizza.csproj", "{A7853412-D9FA-4544-A945-DFE76653E260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiBlazorPizza", "MauiBlazorPizza\MauiBlazorPizza.csproj", "{A7853412-D9FA-4544-A945-DFE76653E260}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

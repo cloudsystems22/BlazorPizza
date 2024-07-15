@@ -1,0 +1,20 @@
+﻿<section class="carousel-cards">
+    <div class="cards-container">
+        <button @onclick="PreviousCard" disabled="@IsDisbledPrevious" class="btn-cards-left"><img src="images/back.png" /></button>
+    @if (products == null)
+    {
+        <p>Aguarde carregando...</p>
+    }
+    else
+    {
+        @foreach (var pizza in products)
+        {
+                <CardComponent product="@pizza" marginLeft="@(cardsUtilsServices.MarginLeftSlide[products.IndexOf(pizza)])" />
+        }
+       
+    }
+        <button @onclick="NextCard" disabled="@IsDisabledNext" class="btn-cards-right"><img src="images/next.png" /></button>
+    </div>
+</section>
+
+

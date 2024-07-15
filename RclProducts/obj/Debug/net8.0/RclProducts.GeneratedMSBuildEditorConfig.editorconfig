@@ -26,18 +26,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-yylhfb80qu
 
-[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/IndicatorsComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEluZGljYXRvcnNDb21wb25lbnQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-q01sbcbcx4
+[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/Cards/CardComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhcmRzXENhcmRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-f5c55hhcdr
 
-[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/SizesComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNpemVzQ29tcG9uZW50LnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-4ugtdo8opn
+[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/Cards/CardsCarousel.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhcmRzXENhcmRzQ2Fyb3VzZWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cv1l02a6ob
 
-[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/SlideComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNsaWRlQ29tcG9uZW50LnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-l5ujxj2gvs
+[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/Slider/IndicatorsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNsaWRlclxJbmRpY2F0b3JzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-l3d649xszd
 
-[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/SliderComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNsaWRlckNvbXBvbmVudC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-v5uyh5mi7t
+[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/Slider/SizesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNsaWRlclxTaXplc0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-hef9lkw7cs
+
+[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/Slider/SlideComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNsaWRlclxTbGlkZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-yooi2y5cr4
+
+[C:/Users/a.david.fico.neto/source/repos/BlazorPizza/RclProducts/Shared/Slider/SliderComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNsaWRlclxTbGlkZXJDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jegplob830

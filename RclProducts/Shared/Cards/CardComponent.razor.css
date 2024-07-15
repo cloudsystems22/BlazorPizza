@@ -1,0 +1,29 @@
+﻿p {
+    color:white;
+}
+
+.card {
+    width: 230px;
+    height: 120px;
+    border-radius: 8px;
+    border: 1px solid white;
+    margin: 10px;
+    padding: 5px;
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    transition: 700ms;
+}
+
+.footer-button {
+    display: flex;
+    justify-content: end;
+}
+
+.button-description {
+    background-color: #07BF0E;
+    border:none;
+    border-radius:8px;
+    color:white;
+    font-size:7pt;
+}
